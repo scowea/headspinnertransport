@@ -1,0 +1,782 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cubby 1.0.0\n"
+"POT-Creation-Date: 2014-02-21 09:09+0800\n"
+"PO-Revision-Date: 2014-02-21 09:09+0800\n"
+"Last-Translator: shijun quan <hoosoft@hotmail.com>\n"
+"Language-Team: Magee <support@mageewp.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\WWW\\www.wptest2.com\\wp-content\\themes\\cubby\n"
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/404.php:18
+msgid "Whoops!"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/404.php:21
+msgid "There is nothing here."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/404.php:24
+msgid "Perhaps you were given the wrong URL?"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:21
+msgid "No comment"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:21
+msgid "Has one comment"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:21
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:22
+msgid "You can "
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:22
+msgid "leave a reply"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:22
+msgid " or "
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:22
+msgid "Trackback"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:22
+msgid "this post."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:34
+msgid "Comment pages"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:64
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:76
+msgid "Your email address will not be published."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/comments.php:79
+msgid "Write a Reply or Comment"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content-none.php:10
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content-none.php:16
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:53
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content-none.php:20
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content-none.php:25
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:67
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:8
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:18
+msgid "Comment"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:8
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:18
+msgid "Comments"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:21
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:50
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:29
+msgid "Categories"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:22
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:51
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:30
+msgid "Tags"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:39
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/search.php:35
+msgid "Read More »"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/content.php:60
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/page.php:38
+msgid "Pages:"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/footer.php:26
+#, php-format
+msgid "Powered by <a href=\"http://wordpress.org/\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:36
+msgid "Header Menu"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:271
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:272
+msgid "Cubby Options"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:296
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:487
+#, php-format
+msgid "%s </cite><span class=\"says\">says:</span>"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:489
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:490
+msgid "(Edit)"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/functions.php:496
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/page.php:47
+msgid "Edit"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:64
+#, php-format
+msgid ""
+"Your current theme does not have support for the Options Framework plugin.  "
+"<a href=\"%1$s\" target=\"_blank\">Learn More</a> | <a href=\"%2$s\">Hide "
+"Notice</a>"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:116
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:117
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:342
+msgid "Theme Options"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:209
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:241
+msgid "Default options restored."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-framework-admin.php:294
+msgid "Options saved."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:66
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:68
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:241
+msgid "No Repeat"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:242
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:243
+msgid "Repeat Vertically"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:244
+msgid "Repeat All"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:257
+msgid "Top Left"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:258
+msgid "Top Center"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:259
+msgid "Top Right"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:260
+msgid "Middle Left"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:261
+msgid "Middle Center"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:262
+msgid "Middle Right"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:263
+msgid "Bottom Left"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:264
+msgid "Bottom Center"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:265
+msgid "Bottom Right"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:278
+msgid "Scroll Normally"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:279
+msgid "Fixed in Place"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:358
+msgid "Normal"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:359
+msgid "Italic"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:360
+msgid "Bold"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/admin/includes/class-options-sanitization.php:361
+msgid "Bold Italic"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:79
+msgid "All Categories"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:106
+msgid "Header Settings"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:109
+msgid "Top Contact Info"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:116
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:117
+msgid ""
+"Upload a logo image, or enter the URL to an image if its already uploaded. "
+"The themes default logo gets applied if the input field is left blank .  "
+"Logo Dimension: 240px * 75px (if your logo is larger you might need to "
+"modify style.css to align it perfectly)."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:122
+msgid "Favicon"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:123
+msgid ""
+"An icon associated with a URL that is variously displayed, as in a browser's "
+"address bar or next to the site name in a bookmark list. Learn more about <a "
+"href=\""
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:129
+msgid "Header Menu Typography"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:136
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:143
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:144
+msgid ""
+"The following css code will add to the header before the closing &lt;/"
+"head&gt; tag."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:151
+msgid "Skype url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:152
+msgid "Your Skype Url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:156
+msgid "Facebook url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:157
+msgid "Your facebook url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:161
+msgid "Twitter url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:162
+msgid "Your Twitter url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:166
+msgid "Google plus url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:167
+msgid "Your Google plus url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:172
+msgid "Youtube url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:173
+msgid "Your Youtube Url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:177
+msgid "Pinterest url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:178
+msgid "Your Pinterest Url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:183
+msgid "Linkedin url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:184
+msgid "Your Linkedin Url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:188
+msgid "Rss url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:189
+msgid "Your Rss feed Url"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:197
+msgid "Body Style"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:206
+msgid "Content Typography"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:207
+msgid "Content typography."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:213
+msgid "Footer Widget Background"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:219
+msgid "Footer Fonts Color"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:226
+msgid "Home Page"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:230
+msgid "Enable Home Page Layout"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:231
+msgid ""
+"Active custom home page layout.  The standardized way of creating Static "
+"Front Pages: <a href=\""
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:237
+msgid "Top Slideshow"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:239
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:375
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:455
+msgid "Slide 1"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:240
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:247
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:254
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:261
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:268
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:376
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:382
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:388
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:394
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:400
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:456
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:462
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:468
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:474
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:480
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:486
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:492
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:498
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:504
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:510
+msgid "Image"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:241
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:248
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:255
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:262
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:269
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:377
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:383
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:389
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:395
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:401
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:457
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:463
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:469
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:475
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:481
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:487
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:493
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:499
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:505
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:511
+msgid "Title"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:242
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:249
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:256
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:263
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:270
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:433
+msgid "Text"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:243
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:250
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:257
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:264
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:271
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:378
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:384
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:390
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:396
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:402
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:458
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:464
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:470
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:476
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:482
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:488
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:494
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:500
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:506
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:512
+msgid "Link"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:246
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:381
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:461
+msgid "Slide 2"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:253
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:387
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:467
+msgid "Slide 3"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:260
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:393
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:473
+msgid "Slide 4"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:267
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:399
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:479
+msgid "Slide 5"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:278
+msgid "Section #1(slogan)"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:292
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:306
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:319
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:332
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:345
+msgid "Author"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:299
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:313
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:326
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:339
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:352
+msgid "Slogan"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:359
+msgid "Section #2"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:365
+msgid "Features Slider Title"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:373
+msgid "Features Slideshow (Image size: 340x280 px)"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:409
+msgid "Latest News List Title"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:418
+msgid "Latest News"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:427
+msgid "Section #3"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:439
+msgid "Section #4"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:445
+msgid "Bottom Carousel Title"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:453
+msgid "Bottom Carousel Slideshow (Image size: 205x150 px)"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:485
+msgid "Slide 6"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:491
+msgid "Slide 7"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:497
+msgid "Slide 8"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:503
+msgid "Slide 9"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/admin-options.php:509
+msgid "Slide 10"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:28
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:195
+msgid "Home"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:129
+msgid "404 - Page not Found"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:131
+msgid "Search"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:192
+msgid "You are here:"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:397
+msgid "g:i a"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:400
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:400
+msgid "i"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:403
+msgid "g a"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:414
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:420
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:425
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:430
+msgid "Y"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:415
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:426
+msgid "F"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:416
+msgid "j"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:421
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:437
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/class-breadcrumb.php:441
+msgid "404 Not Found"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/metabox-options.php:36
+msgid "Cubby Metabox Options"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/metabox-options.php:118
+msgid "Show Breadcrumb :"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/metabox-options.php:129
+msgid "Show Right Sidebar :"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:89
+msgid "Display the recent posts on your website."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:91
+msgid "(cubby) Recent Posts"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:144
+msgid "Recent Posts"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:144
+msgid "All"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:148
+msgid "Title :"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:153
+msgid "Category :"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:167
+msgid "Show Count :"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:181
+msgid "Display the popular posts on your website."
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:183
+msgid "(cubby) Popular Posts"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:231
+msgid "Popular Posts"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:231
+msgid "0"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:235
+msgid "Title:"
+msgstr ""
+
+#: D:\WWW\www.wptest2.com\wp-content\themes\cubby/includes/register-widget.php:239
+msgid "Show Count"
+msgstr ""

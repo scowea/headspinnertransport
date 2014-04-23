@@ -6,7 +6,7 @@
 ?>
 <div class="slogan-box">
   <div class="container">
-    <div class="client-says left">Client says</div>
+    <div class="client-says left"></div>
     <div class="slogan-right left slogan">
       <ul class="testimonial">
 <?php
@@ -22,7 +22,7 @@
         <?php }}?>
       </ul>
     </div>
-    <div class="arrow right"><a href="javascript:;" id="scroll_down"><img src="<?php echo CUBBY_THEME_BASE_URL;?>/images/Arrow-top.png" alt="" /></a> <a href="javascript:;" id="scroll_up"><img src="<?php echo CUBBY_THEME_BASE_URL;?>/images/Arrow-bottom.png" /></a></div>
+    <div class="arrow right"></div>
   </div>
   <div class="clear"></div>
 </div>
@@ -31,6 +31,7 @@
     <div class="columns-3 left">
       <div class="title">
         <h3><?php echo cubby_options_array('content_slideshow_title');?></h3>
+We offer a specialized extendable and Retractable Goose Neck Service that can handle all of your freight transport needs!
       </div>
       <div class="feature-slidercontainer"> <?php echo cubby_get_carousel('features',"feature-slider","340x280",5);?> </div>
     </div>
@@ -98,6 +99,7 @@ wp_reset_postdata();
     <div class="columns1">
       <div class="title">
         <h3><?php echo cubby_options_array('bottom_carousel_title');?></h3>
+	Have a complex problem? We have simple solutions for all of your freight needs. 
       </div>
       <div class="features">
         <div class="arrow-top left"><a href="javascript:;" class="carousel-prev"><img src="<?php echo CUBBY_THEME_BASE_URL;?>/images/Arrow-left.png" alt=""/></a></div>

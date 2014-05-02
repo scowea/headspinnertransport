@@ -23,7 +23,7 @@
 <?php }?>
  <div class="copyright">
     <div class="container">
-      <div class="left wordpress"> Copyright <?php echo '&copy; ' . date("Y") ;?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a>, All Rights Reserved - <a href="../wp-login.php"><font color=lightgrey>admin</font></a>
+      <div class="left wordpress"> Copyright <?php echo '&copy; ' . date("Y") ;?> <a href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php bloginfo('name'); ?></a>, All Rights Reserved
 	  <?php if( is_home() || is_front_page() ): ?>
 	 </div>
 	    <?php endif; ?>

@@ -31,7 +31,7 @@
     <div class="columns-3 left">
       <div class="title">
         <h3><?php echo cubby_options_array('content_slideshow_title');?></h3>
-We offer a specialized extendable and Retractable Goose Neck Service that can handle all of your freight transport needs!
+We offer extendable RGN service for the "ultimate" in large cargo capacity!
       </div>
       <div class="feature-slidercontainer"> <?php echo cubby_get_carousel('features',"feature-slider","340x280",5);?> </div>
     </div>
